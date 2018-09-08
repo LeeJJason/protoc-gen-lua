@@ -1,0 +1,1 @@
+@%CD%/../../Python/Python27/python.exe ../Tool/protoc-gen-lua.py
