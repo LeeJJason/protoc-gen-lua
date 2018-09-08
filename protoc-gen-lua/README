@@ -1,1 +1,2 @@
 protoc-gen-lua TOOL
+PYTHON 2.7
